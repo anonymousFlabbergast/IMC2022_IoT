@@ -344,9 +344,8 @@ In addition to mapping requests and responses into [dialogs](#dialog), we assemb
 
 # Summary
 
-Here, we present the full set of features identified to describe the signaling behavior of IoT devices using 2G/3G mobile communication. The feature set has been developed in the context of the *TODO* research project, funded by *TODO*. Following is a list of publications in the context of the development of the feature.
+Here, we present the full set of features identified to describe the signaling behavior of IoT devices using 2G/3G mobile communication. The feature set has been developed in the context of the *TODO* research project, funded by *TODO*. Following is a list of publications in the context of the development of the feature set.
 
-- *TODO*
 - *TODO*
 
 On questions regarding the features or the session detection please contact *TODO*. If you want to cite this feature set, please include a reference to *TODO*.
