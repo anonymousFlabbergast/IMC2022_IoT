@@ -1,6 +1,6 @@
 # Technical Report: Engineering Features for the Unsupervised Classification of IoT devices based on MAP/GTP Signaling Traffic
 
-This additional material should be seen as accompanying material to the paper *Untangling Global Connectivity: The Importance of Mobile Signaling Traffic in IoT*.
+This additional material should be seen as accompanying material to the paper **Untangling Global Connectivity: The Importance of Mobile Signaling Traffic in IoT**.
 
 # Introduction
 
